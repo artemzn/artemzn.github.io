@@ -1,0 +1,13 @@
+{
+  "users":[
+    {"id":1,"name":"Денис","secondName":"Топорков","status":"Специалист по продажам","age":30,"rating":115, "color": "#42b983"},
+    {"id":2,"name":"Лукьян","secondName":"Рагозин","status":"","age":22,"rating":22, "color": "#4757b9"},
+    {"id":3,"name":"Ярослав","secondName":"Рыжов","status":"","age":45,"rating":10, "color": "#b94b33"},
+    {"id":4,"name":"Денис","secondName":"Топорков","status":"Консультант","age":55,"rating":102, "color": "#b8b94e"},
+    {"id":5,"name":"Артем","secondName":"Кашников","status":"Тестер","age":22,"rating":97, "color": "#23b93a"},
+    {"id":6,"name":"Лада","secondName":"Боярская","status":"Программист","age":25,"rating":15, "color": "#5bb9b8"},
+    {"id":7,"name":"Иосиф","secondName":"Южанин","status":"","age":41,"rating":0, "color": "#b83ab9"},
+    {"id":8,"name":"Станислав","secondName":"Качаев","status":"","age":34,"rating":0, "color": "#42b983"},
+    {"id":9,"name":"Эдуард","secondName":"Бузинский","status":"","age":32,"rating":200, "color": "#b8b94e"}
+  ]
+}
